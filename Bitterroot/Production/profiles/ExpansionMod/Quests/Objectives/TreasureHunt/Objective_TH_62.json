@@ -1,0 +1,88 @@
+{
+    "ConfigVersion": 28,
+    "ID": 62,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash in the Power Plant",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            4763.06982421875,
+            18.783700942993165,
+            6999.33984375
+        ],
+        [
+            4649.6298828125,
+            20.43000030517578,
+            7201.7998046875
+        ],
+        [
+            4538.64990234375,
+            20.442399978637697,
+            7192.5
+        ]
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "TWP_RPK16Tan",
+            "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_RPK16tan_mag_100Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_ScarH",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_ScarH_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

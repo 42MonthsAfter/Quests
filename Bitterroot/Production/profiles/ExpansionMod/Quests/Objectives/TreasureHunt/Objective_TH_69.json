@@ -1,0 +1,88 @@
+{
+    "ConfigVersion": 28,
+    "ID": 69,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash on Alcatraz Island",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            15689.900390625,
+            22.252599716186525,
+            4995.47021484375
+        ],
+        [
+            15817.599609375,
+            22.240100860595704,
+            5109.64013671875
+        ],
+        [
+            15708.2001953125,
+            32.80220031738281,
+            4653.02978515625
+        ]
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "TWP_AK12_mag_30Rnd",
+            "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_AK12Tan_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_AK9",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_AK9_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

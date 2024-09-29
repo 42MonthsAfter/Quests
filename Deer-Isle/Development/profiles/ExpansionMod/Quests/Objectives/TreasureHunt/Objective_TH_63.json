@@ -1,0 +1,88 @@
+{
+    "ConfigVersion": 28,
+    "ID": 63,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash in Camp Eagle",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            8857.8095703125,
+            45.51150131225586,
+            3755.0
+        ],
+        [
+            8822.8203125,
+            45.88880157470703,
+            3853.449951171875
+        ],
+        [
+            8788.0595703125,
+            45.432498931884769,
+            3745.2900390625
+        ]
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "TWP_SG550",
+            "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_SG550_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_SG553",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_SG553_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

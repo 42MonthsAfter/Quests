@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 15,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit North Haven",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        695.3729858398438,
+        8.119999885559082,
+        15054.7998046875
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "North Haven",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

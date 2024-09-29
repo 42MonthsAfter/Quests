@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Discover Your Blood Type",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionTestBloodSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}
